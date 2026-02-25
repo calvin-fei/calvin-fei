@@ -29,17 +29,17 @@ class ChengFei:
 
 ## 🤖 Projects - Large Language Models (LLM/DNN)
 
-- [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/ChengaFEI/text-transformer)
+- [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/calvin-fei/text-transformer)
 
-- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/ChengaFEI/llm-driven-red-teaming)
+- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/calvin-fei/llm-driven-red-teaming)
 
 - [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
 
-- [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/ChengaFEI/cnn-driven-architecture-style-classifier)
+- [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/calvin-fei/cnn-driven-architecture-style-classifier)
 
-- [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/ChengaFEI/dqn-driven-route-planner)
+- [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/calvin-fei/dqn-driven-route-planner)
 
-- [⚙️ MiniTorch -- a mini-version of core PyTorch modules](https://github.com/ChengaFEI/mini-torch)
+- [⚙️ MiniTorch -- a mini-version of core PyTorch modules](https://github.com/calvin-fei/mini-torch)
 
 - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
 
@@ -75,9 +75,9 @@ class ChengFei:
 
 ## 📈 GitHub Stats
 
-<!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-fei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=html,javascript,css,typescript,swift,scss,rich%20text%20format,yacc,haskell,makefile,batchfile,lex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=calvin-fei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=calvin-fei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-fei&theme=transparent&layout=compact&langs_count=8&hide=html,javascript,css,typescript,swift,scss,rich%20text%20format,yacc,haskell,makefile,batchfile,lex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 📋 My LeetCode Stats -->
 
@@ -85,5 +85,5 @@ class ChengFei:
 
 <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=cf482&theme=light&hide_border=true" alt="LeetCode Badges"/> -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=chengafei)
-![stars](https://img.shields.io/github/stars/chengafei?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=calvin-fei)
+![stars](https://img.shields.io/github/stars/calvin-fei?style=social)
