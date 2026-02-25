@@ -43,13 +43,13 @@ class ChengFei:
 
 - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
 
-## 😋 Projects - LLMs from Scratch
+<!-- ## 😋 Projects - LLMs from Scratch -->
 
-- [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/LLMFromScratch/re_transformers.git)
+<!-- - [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/LLMFromScratch/re_transformers.git) -->
 
-- [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt](https://github.com/LLMFromScratch/re_diffusers.git)
+<!-- - [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt](https://github.com/LLMFromScratch/re_diffusers.git) -->
 
-- [🚀 vLLM from Scratch -- a collection of vLLM models rebuilt](https://github.com/LLMFromScratch/re_vllm.git)
+<!-- - [🚀 vLLM from Scratch -- a collection of vLLM models rebuilt](https://github.com/LLMFromScratch/re_vllm.git) -->
 
 ## 🌌 Projects - High Performance Computing (HPC)
 
