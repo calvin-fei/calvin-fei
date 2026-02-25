@@ -27,7 +27,7 @@ class ChengFei:
 - Machine Learning Engineer
 - Applied Scientist
 
-## 🤖 Projects - Large Language Models (LLM/DNN)
+## 🤖 Projects - Large Language Models (LLM)
 
 - [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/calvin-fei/text-transformer)
 
