@@ -77,7 +77,8 @@ class ChengFei:
 
 <!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin-fei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=calvin-fei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=calvin-fei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-fei&theme=transparent&layout=compact&langs_count=8&hide=html,javascript,css,typescript,swift,scss,rich%20text%20format,yacc,haskell,makefile,batchfile,lex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=calvin-fei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=calvin-fei&theme=transparent&hide_border=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-fei&theme=transparent&layout=compact&langs_count=8&hide=html,javascript,css,typescript,swift,scss,rich%20text%20format,yacc,haskell,makefile,batchfile,lex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ## 📋 My LeetCode Stats -->
 
