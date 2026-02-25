@@ -51,15 +51,15 @@ class ChengFei:
 
 <!-- - [🚀 vLLM from Scratch -- a collection of vLLM models rebuilt](https://github.com/LLMFromScratch/re_vllm.git) -->
 
-## 🌌 Projects - High Performance Computing (HPC)
+<!-- ## 🌌 Projects - High Performance Computing (HPC) -->
 
-- [🎯 CUDA Programming -- a collection of CUDA kernel optimizations for GPU](https://github.com/TechDailyNotes/study-notes-cuda)
+<!-- - [🎯 CUDA Programming -- a collection of CUDA kernel optimizations for GPU](https://github.com/TechDailyNotes/study-notes-cuda) -->
 
-- [🔱 Triton Programming -- a collection of Triton server optimizations for GPU](https://github.com/TechDailyNotes/study-notes-triton)
+<!-- - [🔱 Triton Programming -- a collection of Triton server optimizations for GPU](https://github.com/TechDailyNotes/study-notes-triton) -->
 
-- [🧬 Neuron Programming -- a collection of Neuron distributed training optimizations for Trainium Accelerator](https://github.com/TechDailyNotes/study-notes-neuron)
+<!-- - [🧬 Neuron Programming -- a collection of Neuron distributed training optimizations for Trainium Accelerator](https://github.com/TechDailyNotes/study-notes-neuron) -->
 
-- [🔀 Parallel C++ Programming -- a collection of parallel computing optimizations in C++](https://github.com/TechDailyNotes/study-notes-cpp-parallel)
+<!-- - [🔀 Parallel C++ Programming -- a collection of parallel computing optimizations in C++](https://github.com/TechDailyNotes/study-notes-cpp-parallel) -->
 
 ## 📙 Blogs - SOTA LLM Researches
 
