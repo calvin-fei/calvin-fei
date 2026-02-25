@@ -41,7 +41,7 @@ class ChengFei:
 
 - [⚙️ MiniTorch -- a mini-version of core PyTorch modules](https://github.com/calvin-fei/mini-torch)
 
-- [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
+<!-- - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch) -->
 
 <!-- ## 😋 Projects - LLMs from Scratch -->
 
