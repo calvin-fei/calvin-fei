@@ -29,17 +29,17 @@ class ChengFei:
 
 ## 🤖 Projects - Large Language Models (LLM)
 
+- [⚙️ MiniTorch -- a mini-version of core PyTorch modules](https://github.com/calvin-fei/mini-torch)
+
 - [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/calvin-fei/text-transformer)
 
-- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/calvin-fei/llm-driven-red-teaming)
-
 - [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
+
+- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/calvin-fei/llm-driven-red-teaming)
 
 - [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/calvin-fei/cnn-driven-architecture-style-classifier)
 
 - [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/calvin-fei/dqn-driven-route-planner)
-
-- [⚙️ MiniTorch -- a mini-version of core PyTorch modules](https://github.com/calvin-fei/mini-torch)
 
 <!-- - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch) -->
 
