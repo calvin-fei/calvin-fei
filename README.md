@@ -1,6 +1,14 @@
 👋 Hello, welcome to my repo!
 
-I'm [Calvin Fei](https://www.linkedin.com/in/calvinfei/), a **Machine Learning Engineer** at AWS Annarpurna Labs, with expertise in Large Language Models (**LLM**), Deep Neural Networks (**DNN**), and High Performance Computing (**HPC**).
+[Calvin Fei](https://www.linkedin.com/in/calvinfei/) is a **Machine Learning Engineer** at AWS Annarpurna Labs, with expertise in Large Language Models (**LLM**), Deep Neural Networks (**DNN**), and High Performance Computing (**HPC**).
+
+Calvin Fei is a Machine Learning Engineer specializing in large-scale ML systems, LLM inference infrastructure, and accelerator-aware model optimization. He holds a Master’s degree in Computer Science from Cornell University.
+
+At AWS Annapurna Labs, Calvin works on AI/ML systems prototyping and performance optimization, collaborating with strategic customers to port and optimize large-scale deep learning models on AWS Trainium and Inferentia. His work focuses on LLM inference systems, model efficiency, and hardware-aware optimization, enabling teams to deploy high-performance models on specialized AI accelerators.
+
+His expertise spans the full LLM systems stack — from model architectures and inference pipelines to accelerator-level kernel optimization. He has extensive experience optimizing throughput, latency, and hardware utilization for production-scale ML workloads using PyTorch, CUDA, Triton, and C/C++, and has worked with modern high-performance serving frameworks such as vLLM and TensorRT-LLM.
+
+Calvin is particularly interested in advancing scalable LLM systems, high-performance inference infrastructure, and next-generation AI compute platforms, bridging model architectures, ML systems software, and accelerator hardware.
 
 <!-- Feel free to contact me: -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/) -->
